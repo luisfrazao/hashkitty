@@ -1,0 +1,6 @@
+{
+    "name": "Your API",
+    "version": "1.0.0",
+    "description": "API documentation for your routes",
+    "url": "http://localhost:3000"
+}

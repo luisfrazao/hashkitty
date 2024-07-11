@@ -1,0 +1,11 @@
+flask[async]
+jsonschema
+requests
+hypercorn
+psutil
+py-cpuinfo
+websockets
+detect
+watchdog
+pyinstaller
+

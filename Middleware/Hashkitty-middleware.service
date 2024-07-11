@@ -1,0 +1,13 @@
+[Unit]
+Description=Hashkitty Middleware Service
+After=network.target
+
+[Service]
+ExecStart=/usr/local/Hashkitty/Middleware/Middleware
+WorkingDirectory=/usr/local/Hashkitty/Middleware
+Type=simple
+Restart=always
+
+[Install]
+WantedBy=default.target
+RequiredBy=network.target
