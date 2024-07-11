@@ -5,7 +5,7 @@
 
 
 # HashKitty_v2
-Plataforma distribuída de análise de passwords
+Plataforma distribuída multissistema para processamento e análise de hashes de passwords.
 
 ## Descrição
 HashKitty é uma plataforma distribuída de análise de passwords baseada no Hashcat, desenvolvida como um projeto académico no ano letivo de 2023-2024.
