@@ -1,0 +1,13 @@
+[Unit]
+Description=Hashkitty Agent Service
+After=network.target
+
+[Service]
+ExecStart=/usr/local/Hashkitty/Agent/Agent
+WorkingDirectory=/usr/local/Hashkitty/Agent
+Type=simple
+Restart=always
+
+[Install]
+WantedBy=default.target
+RequiredBy=network.target

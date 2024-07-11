@@ -1,0 +1,16 @@
+build/*
+dist/*
+Agent.spec
+env/*
+*.log
+*.kernel
+*.pot
+pots/*
+*.pid
+*.restore
+config.json
+installers/Windows/dist/*
+installers/Linux/dist/*
+*.tar.gz
+*.tar.xz
+installers/Windows/Agent/*
