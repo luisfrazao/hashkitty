@@ -4,8 +4,12 @@
 # ![hashkitty-logo](https://github.com/monico18/HashKitty_v2/assets/38791593/d678a4dc-6e17-4cbd-ad9c-c1847358d299)
 
 
+
 # HashKitty_v2
 Plataforma distribuída multissistema para processamento e análise de hashes de passwords.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12726688.svg)](https://doi.org/10.5281/zenodo.12726688)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12726812.svg)](https://doi.org/10.5281/zenodo.12726812)
 
 ## Descrição
 HashKitty é uma plataforma distribuída multissistema de análise de hashes de passwords baseada no Hashcat, desenvolvida como um projeto académico no ano letivo de 2023-2024.
