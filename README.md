@@ -1,7 +1,7 @@
-# ![estg_h_branco](https://github.com/monico18/HashKitty_v2/assets/38791593/ddc5271a-eb3a-459a-8ca2-6551d39da505)
+# ![estg_h_branco](https://github.com/user-attachments/assets/cf71a428-607a-41e9-bb5a-60894e624ead)
 
 
-# ![hashkitty-logo](https://github.com/monico18/HashKitty_v2/assets/38791593/d678a4dc-6e17-4cbd-ad9c-c1847358d299)
+# ![hashkitty-logo](https://github.com/user-attachments/assets/c7281a7c-abf8-4e45-8d4a-5571d6384bb5)
 
 
 
