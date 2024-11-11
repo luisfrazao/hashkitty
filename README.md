@@ -30,10 +30,10 @@ O objetivo do HashKitty é criar uma solução distribuída e escalável que sim
 - Criar um relatório final com toda a investigação, protótipos desenvolvidos e testes realizados.
 
 # Gráfico da arquitetura
-![ProjetoInformaticoDiagrama](https://github.com/monico18/HashKitty_v2/assets/126672884/60109d38-b67d-41ab-8021-a3d44e7749db)
+![ProjetoInformaticoDiagrama](https://github.com/user-attachments/assets/ba0adebf-2560-4b28-b206-6cd2e0ca7f56)
 
 # Cenário de teste baseado na arquitetura
-![CenárioTeste](https://github.com/monico18/HashKitty_v2/assets/126672884/5719a797-99bf-450a-8154-00f7cff74eb4)
+![CenárioTeste](https://github.com/user-attachments/assets/50b0535d-27af-43cf-8ec4-e756602f8947)
 
 ## Tecnologias Utilizadas
 - **WebApp:**
