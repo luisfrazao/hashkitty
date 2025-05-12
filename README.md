@@ -1,9 +1,6 @@
 # ![estg_h_branco](https://github.com/user-attachments/assets/cf71a428-607a-41e9-bb5a-60894e624ead)
 
-
 # ![hashkitty-logo](https://github.com/user-attachments/assets/c7281a7c-abf8-4e45-8d4a-5571d6384bb5)
-
-
 
 # HashKitty_v2
 Plataforma distribuída multissistema para processamento e análise de hashes de passwords.
@@ -11,6 +8,30 @@ Plataforma distribuída multissistema para processamento e análise de hashes de
 ![GitHub License](https://img.shields.io/github/license/luisfrazao/hashkitty)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12726688.svg)](https://doi.org/10.5281/zenodo.12726688)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12726812.svg)](https://doi.org/10.5281/zenodo.12726812)
+[![DOI](https://img.shields.io/badge/cs.CR-2505.06084-B31B1B?style=flat&logo=arxiv&logoColor=red)](https://doi.org/10.48550/arXiv.2505.06084)
+
+## 🚀 **Artigo Publicado!**
+
+> 👉 **Título**: *"HashKitty: Distributed Password Analysis"*
+> 
+> 🗓️ **Publicado em**: Maio de 2025, na plataforma **arXiv**.
+>
+> 🔗 **Disponível em**: [https://arxiv.org/abs/2505.06084](https://arxiv.org/abs/2505.06084)
+>
+> 📝 **Referêcia BibTeX**:
+>
+> ```bibtex
+> @misc{hashkittyDPA2025,
+>       title={HashKitty: Distributed Password Analysis}, 
+>       author={Pedro Antunes and Tomás Santos and Daniel Fuentes and Luís Frazão},
+>       year={2025},
+>       eprint={2505.06084},
+>       archivePrefix={arXiv},
+>       primaryClass={cs.CR},
+>       doi={10.48550/arXiv.2505.06084},
+>       url={https://arxiv.org/abs/2505.06084}, 
+> }
+> ```
 
 
 ## Descrição
